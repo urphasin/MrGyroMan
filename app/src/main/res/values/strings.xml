@@ -46,4 +46,5 @@
     <string name="todo">TODO</string>
     <string name="accelerometer">Accelerometer</string>
     <string name="magnetometer">Magnetometer</string>
+    <string name="orientation_data_will_appear_here">Orientation data will appear here</string>
 </resources>
